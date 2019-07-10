@@ -1,0 +1,8 @@
+/*
+	To be used with validation.js
+*/
+
+.errorMessage {
+	color: #CC0000;
+	padding-top: 3px;
+}
